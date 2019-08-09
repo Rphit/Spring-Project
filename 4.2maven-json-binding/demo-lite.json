@@ -1,0 +1,11 @@
+{
+ "firstName":"rohit",
+ "lastName":"patel",
+ "address":
+ {"city":"indore",
+ "pincode":1234,
+ "landmark":"Gayatri mandir"
+ },
+    "country": "india",
+   "language":["english","hindi"]
+}

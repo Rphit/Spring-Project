@@ -1,0 +1,12 @@
+com\mycompany\hibernate_mapping_bi\CreateDemo.class
+com\mycompany\hibernate_mapping_bi\CreateCoursesDemo.class
+com\mycompany\hibernate_mapping_bi\CreateInstructorDemo.class
+comm\example\entity\InstructorDetail.class
+comm\example\entity\Course.class
+com\mycompany\hibernate_mapping_bi\GetInstructorCoursesDemo.class
+comm\example\entity\Instructor.class
+comm\example\entity\Student.class
+com\mycompany\hibernate_mapping_bi\GetInstructorDetailDemo.class
+com\mycompany\hibernate_mapping_bi\DeleteCourseDemo.class
+com\mycompany\hibernate_mapping_bi\DeleteInstructorDetailDemo.class
+com\mycompany\hibernate_mapping_bi\DeleteDemo.class

@@ -1,0 +1,3 @@
+comm\example\spring\demo\controller\DemoController.class
+comm\example\spring\demo\config\DemoAppConfig.class
+comm\example\spring\demo\config\MyMvcSpringServletInitializer.class
